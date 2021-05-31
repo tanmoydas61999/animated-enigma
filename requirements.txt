@@ -8,9 +8,5 @@ google-auth-oauthlib==0.4.4
 google-pasta==0.2.0
 googleapis-common-protos==1.53.0
 oauthlib==3.1.0
-ptyprocess==0.7.0
 pyaes==1.6.1
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycparser==2.20
-pyxel==1.0.1
+TgCrypto==1.2.2
